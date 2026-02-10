@@ -1,8 +1,4 @@
-## Ohaidere!
-
-I'm DeToasty3/Taiki, a Computer Science and Mathematics double master's student at the Georgia Institute of Technology.
-
-Personal + DMC site: https://detoasty3.github.io.
+https://detoasty3.github.io.
 
 <!--
 **detoasty3/detoasty3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
