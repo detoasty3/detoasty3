@@ -1,4 +1,4 @@
-https://detoasty3.github.io.
+https://detoasty3.github.io
 
 <!--
 **detoasty3/detoasty3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
